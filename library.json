@@ -1,0 +1,22 @@
+{
+  "name": "TFT_eButton",
+  "version": "0.0.1",
+  "keywords": "Arduino, tft, display, button, gui",
+  "description": "A TFT button library",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/TBD/TFT_eButton"
+  },
+  "authors":
+  [
+    {
+        "name": "TBD",
+        "email": "tbd@tbd.net",
+        "maintainer": true
+    }
+  ],
+  "frameworks": "arduino",
+  "platforms": "*",
+  "headers": "TFT_eButton.h"
+}

@@ -1,0 +1,24 @@
+# TFT_eButton library
+
+TFT_eButton	KEYWORD1
+
+initButton	KEYWORD2
+initButtonUL	KEYWORD2
+setLabelDatum	KEYWORD2
+drawButton	KEYWORD2
+contains	KEYWORD2
+press	KEYWORD2
+isPressed	KEYWORD2
+justPressed	KEYWORD2
+justReleased	KEYWORD2
+
+setPressAction	KEYWORD2
+setReleaseAction	KEYWORD2
+
+setPressTime	KEYWORD2
+setReleaseTime	KEYWORD2
+getPressTime	KEYWORD2
+getReleaseTime	KEYWORD2
+
+drawSmoothButton	KEYWORD2
+getState	KEYWORD2
